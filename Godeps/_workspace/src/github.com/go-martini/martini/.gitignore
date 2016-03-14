@@ -21,3 +21,10 @@ _testmain.go
 
 *.exe
 *.test
+
+/.godeps
+/.envrc
+
+# Godeps
+Godeps/_workspace
+Godeps/Readme
